@@ -9,6 +9,7 @@ As an individual with severe dsylexia I can personally appericate the ever evolv
 ## Installation
 
 Open web browers to see webpage and VS code to view HTML/CSS input
+https://cherylhemphill.github.io/Horiseon-Social-Services/
 
 ## Usage
 
